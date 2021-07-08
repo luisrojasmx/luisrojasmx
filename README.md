@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @luisrojasmx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Luis Rojas
+- 👀 I’m interested in WebDesign, UI/UX, CSS, HTML5, frontend, backend
+- 🌱 I’m currently learning to work on big projects worldwide using Github
 
-<!---
-luisrojasmx/luisrojasmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+www.luisrojas.mx
+
+@luisrojasmx
